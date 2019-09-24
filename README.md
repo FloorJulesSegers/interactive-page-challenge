@@ -25,7 +25,8 @@ Make a layout where users have the following parts:
 - Disable the send button on the contact form, unless all fields have been filled in .
 
 ## Project link
-(Interactive page challenge)[https://floorjulessegers.github.io/interactive-page-challenge/]
+
+[Interactive page challenge](https://floorjulessegers.github.io/interactive-page-challenge/)
 
 ## Interactive page challenge
 
